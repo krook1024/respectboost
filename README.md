@@ -1,2 +1,2 @@
 # respectboost
-# sampforum.hu respect booster source. enjoy
+sampforum.hu respect booster source. enjoy
