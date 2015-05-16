@@ -1,0 +1,14 @@
+.clear {
+	clear: both;
+}
+
+h1.header {
+	font-size: 250% !important;
+	font-weight: bold;
+}
+
+.input-group {
+	margin-top: 5px !important;
+	margin-bottom: 5px !important;
+	width: 100%;
+}
