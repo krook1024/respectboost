@@ -35,6 +35,9 @@
 				?>
 				</div>
 			</section>
+			<section id="footer">
+				<center><small>sampforum.hu respect booster - krook (c) 2015</small></center>
+			</section>
 		</div>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 	</body>
